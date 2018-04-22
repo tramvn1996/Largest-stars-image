@@ -8,7 +8,7 @@ args = vars(ap.parse_args())
 #load the image
 #image = cv2.imread(args["image"])
 s="iiii"
-st = "rings.v3.skycell.1322.015.stk.i.unconv.fits.png"
+st = "/home/tnguyen/BigData/project3/cinf401-project3/rings.v3.skycell.1322.015.stk.i.unconv.fits.png"
 print(st)
 image = cv2.imread(st ,0)
 #image = cv2.imread('circle.jpg',0)

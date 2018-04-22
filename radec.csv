@@ -14,7 +14,6 @@ rings.v3.skycell.1322.011.stk.i.unconv.fits,1.39941467119,0.599197527544
 rings.v3.skycell.1322.012.stk.i.unconv.fits,0.999689184004,0.599285060363
 rings.v3.skycell.1322.013.stk.i.unconv.fits,0.599866351245,0.599343437736
 rings.v3.skycell.1322.014.stk.i.unconv.fits,0.199985087032,0.599372634088
-rings.v3.skycell.1322.015.stk.i.unconv.fits,-0.199915660383,0.599372636622
 rings.v3.skycell.1322.016.stk.i.unconv.fits,-0.599796931359,0.599343445338
 rings.v3.skycell.1322.017.stk.i.unconv.fits,-0.999619777641,0.599285073029
 rings.v3.skycell.1322.018.stk.i.unconv.fits,-1.39934528511,0.599197545269
@@ -118,7 +117,6 @@ rings.v3.skycell.1323.015.stk.i.unconv.fits,3.80008433962,0.599372636622
 rings.v3.skycell.1323.016.stk.i.unconv.fits,3.40020306864,0.599343445338
 rings.v3.skycell.1323.017.stk.i.unconv.fits,3.00038022236,0.599285073029
 rings.v3.skycell.1323.018.stk.i.unconv.fits,2.60065471489,0.599197545269
-rings.v3.skycell.1323.019.stk.i.unconv.fits,2.20106540353,0.599080900381
 rings.v3.skycell.1323.020.stk.i.unconv.fits,5.79944221273,0.998914546046
 rings.v3.skycell.1323.021.stk.i.unconv.fits,5.39975567257,0.999109119052
 rings.v3.skycell.1323.022.stk.i.unconv.fits,4.99993283002,0.999255124502
@@ -214,7 +212,6 @@ rings.v3.skycell.1324.011.stk.i.unconv.fits,9.39941467119,0.599197527544
 rings.v3.skycell.1324.012.stk.i.unconv.fits,8.999689184,0.599285060363
 rings.v3.skycell.1324.013.stk.i.unconv.fits,8.59986635125,0.599343437736
 rings.v3.skycell.1324.014.stk.i.unconv.fits,8.19998508703,0.599372634088
-rings.v3.skycell.1324.015.stk.i.unconv.fits,7.80008433962,0.599372636622
 rings.v3.skycell.1324.016.stk.i.unconv.fits,7.40020306864,0.599343445338
 rings.v3.skycell.1324.017.stk.i.unconv.fits,7.00038022236,0.599285073029
 rings.v3.skycell.1324.018.stk.i.unconv.fits,6.60065471489,0.599197545269
@@ -19121,7 +19118,6 @@ rings.v3.skycell.1513.019.stk.i.unconv.fits,46.7175352268,8.59339504486
 rings.v3.skycell.1513.020.stk.i.unconv.fits,50.3634247766,8.99370719075
 rings.v3.skycell.1513.021.stk.i.unconv.fits,49.958266636,8.99547828629
 rings.v3.skycell.1513.022.stk.i.unconv.fits,49.5529665139,8.99680730446
-rings.v3.skycell.1513.023.stk.i.unconv.fits,49.1475649145,8.99769365672
 rings.v3.skycell.1513.024.stk.i.unconv.fits,48.7421024028,8.99813695031
 rings.v3.skycell.1513.025.stk.i.unconv.fits,48.3366195807,8.99813698874
 rings.v3.skycell.1513.026.stk.i.unconv.fits,47.931157062,8.99769377198
@@ -19200,7 +19196,6 @@ rings.v3.skycell.1513.098.stk.i.unconv.fits,47.1081444903,11.7987780714
 rings.v3.skycell.1513.099.stk.i.unconv.fits,46.6994752494,11.7964427332
 rings.v3.skycell.1514.000.stk.i.unconv.fits,54.4038977281,8.19321904836
 rings.v3.skycell.1514.001.stk.i.unconv.fits,53.9997317057,8.19482912847
-rings.v3.skycell.1514.002.stk.i.unconv.fits,53.595424743,8.19603732041
 rings.v3.skycell.1514.003.stk.i.unconv.fits,53.1910170475,8.1968430903
 rings.v3.skycell.1514.004.stk.i.unconv.fits,52.7865488868,8.19724608185
 rings.v3.skycell.1514.005.stk.i.unconv.fits,52.3820605647,8.19724611678
@@ -19284,7 +19279,6 @@ rings.v3.skycell.1514.082.stk.i.unconv.fits,53.6054409644,11.4002136094
 rings.v3.skycell.1514.083.stk.i.unconv.fits,53.1970281292,11.4013421018
 rings.v3.skycell.1514.084.stk.i.unconv.fits,52.788553014,11.4019064981
 rings.v3.skycell.1514.085.stk.i.unconv.fits,52.3800571323,11.4019065471
-rings.v3.skycell.1514.086.stk.i.unconv.fits,51.9715820099,11.4013422485
 rings.v3.skycell.1514.087.stk.i.unconv.fits,51.5631691603,11.4002138539
 rings.v3.skycell.1514.088.stk.i.unconv.fits,51.1548600589,11.3985218656
 rings.v3.skycell.1514.089.stk.i.unconv.fits,50.7466961177,11.3962670365
@@ -19410,7 +19404,6 @@ rings.v3.skycell.1516.008.stk.i.unconv.fits,59.2587653443,8.19482937278
 rings.v3.skycell.1516.009.stk.i.unconv.fits,58.854599294,8.19321936229
 rings.v3.skycell.1516.010.stk.i.unconv.fits,62.496018061,8.59339471524
 rings.v3.skycell.1516.011.stk.i.unconv.fits,62.0913565871,8.59508526004
-rings.v3.skycell.1516.012.stk.i.unconv.fits,61.6865536536,8.5963538328
 rings.v3.skycell.1516.013.stk.i.unconv.fits,61.2816496159,8.59719987233
 rings.v3.skycell.1516.014.stk.i.unconv.fits,60.8766848901,8.59762300412
 rings.v3.skycell.1516.015.stk.i.unconv.fits,60.4716999285,8.5976230408

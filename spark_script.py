@@ -12,7 +12,7 @@ import re
 conf = SparkConf().setAppName("Stars")
 sc = SparkContext(conf=conf)
 spark = SparkSession.builder.appName("Starts").getOrCreate()
-fnames =sc.textFile("file:///home/tnguyen/BigData/project3/radec.csv")
+fnames =sc.textFile("file:///home/tnguyen/BigData/project3/cinf401-project3/tiny.csv")
 
 m = fnames.map(lambda line: line.split(","))
 header = m.first()
@@ -37,6 +37,6 @@ def findstar(names):
 s = rows.flatMap(findstar)
 radius =s.sortBy(lambda x: x[0],ascending=False)
 top100=sc.parallelize(radius.take(163))
-top100.saveAsTextFile("file:///home/tnguyen/bigresult.csv")
+top100.saveAsTextFile("file:///home/tnguyen/BigData/project3/bigresult.csv")
 
 print(top100.collect())
